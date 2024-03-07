@@ -3,3 +3,4 @@
 Hello, welcome to our group project!!
 
 ### Members
+80742364 Sophie Juchymenko
