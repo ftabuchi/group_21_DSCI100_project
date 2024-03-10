@@ -10,8 +10,9 @@ Hello, welcome to our group project!!
 
 
 ### Title: Stars
-###The data is surrounded around Pulsar Stars. Pulsar Stars are a type of neutron star that emits radio waves. They are especially useful in science as they are important in space-time and state-matter exploration in space.
 ### Our data set:
+The data is surrounded around Pulsar Stars. Pulsar Stars are a type of neutron star that emits radio waves. They are especially useful in science as they are important in space-time and state-matter exploration in space.
+HEHEHEHHEEHHHHE
 ### Introduction
 ### Exploratory Data Analysis
 ### Methods
