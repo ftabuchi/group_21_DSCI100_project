@@ -9,8 +9,9 @@ Hello, welcome to our group project!!
 - Sophie Juchymenko (80742364)
 
 
-### Title:
+### Title: Stars
 ### Our data set:
+The data is surrounded around Pulsar Stars. Pulsar Stars are a type of neutron star that emits radio waves. They are especially useful in science as they are important in space-time and state-matter exploration in space.
 ### Introduction
 ### Exploratory Data Analysis
 ### Methods
